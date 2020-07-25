@@ -60,6 +60,7 @@ Entire web framework is based on MVC (not classic pattern but very important)
 ==============================================================================
 
 Singleton Pattern. The class has only one instance and provides a global point of access to it.
+Prototype Pattern. It specifies the kinds of objects to create using prototypical instance and create new objects copying this prototype
 
 
 
