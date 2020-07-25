@@ -12,7 +12,6 @@ Creational Patterns
    -Factory pattern
    -Abstract factory pattern
 
-
 Structural Patterns
   - Module pattern
   - Mixins pattern
@@ -22,7 +21,6 @@ Structural Patterns
   - MVC pattern
   - MVP (Model-View-Presenter) pattern
   - MVVM (Model-View-ViewModel) pattern
-
 
 Behavioral Patterns
   - Observer pattern
