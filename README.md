@@ -71,5 +71,10 @@ In Spring framework every bean by default is a singleton. Not a classic singleto
 Prototype pattern. A class is created in a prototypical manner. Instance is cloned at runtime to give new instances that are not the prototpe, but act the same and have the same state. In Java this is usually done with the Cloneable interface. Prototypes are usually deep clones of objects to maintain safety.
 It's very useful when object creation is expensive but the wrapper needs to be unique. 
 
+Adapter pattern. Used often in Spring integration when dealing with Channel Adapters for communication with different systems. Used in internal operations of AspectJ and used during load. Two different interfaces share a common operation. Adapter is a wrapper class that is created that holds an instance of one interface and implements the other. The shared operation of the wrapper interface is implemented to call the shared operation of the wrapped interface. It might be used when legacy or third party code needs to fit into your code, when shared functionality on disparate objects to reduce code, when coding to interfaces in routine workflows and leveraging adapters reduces code while improving readability
 
- 
+
+
+
+
+
