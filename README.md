@@ -57,7 +57,17 @@ Entire web framework is based on MVC (not classic pattern but very important)
 
 
 
-====================================================================================================
+==============================================================================
+
+Singleton Pattern. The class has only one instance and provides a global point of access to it.
+
+
+
+
+
+==============================================================================
+
+
 Factory pattern. Allows construction of similar objects(classes) of different types using a factory method. Method call creates the object for you and serves it back. Constructed objects are from classes that share an interface or parent class. Allows not to worry about class construction in more than one place. Allows to leverage the interface for repetitive operations. Lack of construction code cleans up code and also makes copy/paste errors less likely
 
 Abstract factory pattern. Takes the pattern one step further. Factory of factories. Ads new level of abstraction that becomes powerful if you have a bunch of types that also have a bunch of types.
