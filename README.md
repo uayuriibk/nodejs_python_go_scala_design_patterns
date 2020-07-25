@@ -37,3 +37,8 @@ Behavioral Patterns
 
 Design Pattern - a general, reusable solution to a commonly occurring problem within a given context in software design.
 In simple words it's a way to resolve problems in code in well known template way
+
+Behavioral patterns focused on the communications between objects
+
+
+ 
