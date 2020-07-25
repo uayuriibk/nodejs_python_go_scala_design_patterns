@@ -36,9 +36,27 @@ Behavioral Patterns
 ====================================================================================================
 
 Design Pattern - a general, reusable solution to a commonly occurring problem within a given context in software design.
-In simple words it's a way to resolve problems in code in well known template way
+In simple words it's a way to resolve problems in code in well known template way.
+In other words - best practices for solutions to common problems designed with good OOP in mind, common answers to common problems
 
-Behavioral patterns focused on the communications between objects
+Creational patterns are focused on objects creation
+Structural patterns are focused on objects composition and interfaces
+Behavioral patterns are focused on the communications between objects
+
+
+Other patterns (in the context of Spring framework):
+Inversion of Control (IoC) Pattern. It improves testability, decreases coupling, enforces coding to an interface
+Since Spring4.0 Proxy pattern is used in every object managed by Spring
+IoC container is a factory pattern
+Singleton, prototype patterns are also used in Spring
+Template pattern is widely used in remote calls (JDBC, REST related)
+Entire web framework is based on MVC (not classic pattern but very important)
+
+
+
+
+
+====================================================================================================
 
 
  
