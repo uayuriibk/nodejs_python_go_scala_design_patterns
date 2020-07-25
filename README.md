@@ -3,14 +3,15 @@ node.js, JavaScript, design patterns etc
 
 
 Design pattern 
+   - Definition
 
 
 Creational Patterns
-   -Singleton pattern
-   -Constructor pattern
-   -Class pattern
-   -Factory pattern
-   -Abstract factory pattern
+   - Singleton pattern
+   - Constructor pattern
+   - Class pattern
+   - Factory pattern
+   - Abstract factory pattern
 
 Structural Patterns
   - Module pattern
@@ -31,3 +32,8 @@ Behavioral Patterns
   - Memento pattern
   - Mediator pattern
   - Command pattern
+
+====================================================================================================
+
+Design Pattern - a general, reusable solution to a commonly occurring problem within a given context in software design.
+In simple words it's a way to resolve problems in code in well known template way
